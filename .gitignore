@@ -4,3 +4,12 @@ __pycache__/
 .venv/
 design-system/
 .DS_Store
+node_modules/
+.env.local
+dist/
+build/
+.vscode/
+.claude/
+.worktrees/
+*.log
+.pytest_cache/
